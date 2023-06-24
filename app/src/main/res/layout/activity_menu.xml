@@ -56,7 +56,8 @@
             android:layout_width="111dp"
             android:layout_height="95dp"
             android:layout_marginTop="-4dp"
-            android:src="@drawable/himti"
+            android:src="@drawable/event"
+            android:scaleType="centerCrop"
             android:background="@color/white"
             app:shapeAppearanceOverlay="@style/RoundedSquare"/>
 
